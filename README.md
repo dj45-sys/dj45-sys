@@ -8,5 +8,5 @@
 - ⚡ Fun fact: C# is my favorite language and it follows javascript
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
-<img src="https://github-readme-stats.vercel.app/api?username=dj45-sys&&show_icons=true&title_color=ff8000&icon_color=bb2acf&text_color=daf7dc&bg_color=424242"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj45-sys&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=dj45-sys&&show_icons=true&title_color=ff8000&icon_color=bb2acf&text_color=daf7dc&bg_color=424242"/>
