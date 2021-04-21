@@ -7,7 +7,7 @@
 ##
 
 ### About me
-I am a nerd and an average developer from Colombia, I am 15 years old, my hobbies are programming and video games.
+I'm A Nerd And An Average Developer From Colombia, I'm 15 Years Old, My Hobbies Are Programming And Video Games.
 ### Editors:
 <div align="center">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
