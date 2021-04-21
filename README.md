@@ -20,7 +20,7 @@ I am a nerd and an average developer from Colombia, I am 15 years old, my hobbie
     <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="linux" height="40" style="vertical-align:top; margin:4px">
 </div>
 
-### Favorite Languages
+### Favorite Languages:
 
 <div align="center">
     <img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" height="40" style="vertical-align:top; margin:4px">
