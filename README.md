@@ -34,7 +34,7 @@ I'm A Nerd And An Average Developer From Colombia, I'm 15 Years Old, My Hobbies 
 
 ### Most Used Languages:
 <div style="display:flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj45-sys&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj45-sys">
 </div>
 
 ### Wakatime Weekend Stats:
