@@ -46,3 +46,20 @@ I'm A Nerd And An Average Developer From Colombia, I'm 15 Years Old, My Hobbies 
 <div style="display:flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj45-sys">
 </div>
+
+### Featured projects:
+
+<div style="display:flex;">
+    <a href="https://github.com/dj45-sys/Sfetch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dj45-sys&repo=Sfetch&show_owner=true&theme=tokyonight">
+    </a>
+    <a href="https://github.com/dj45-sys/My-Personal-Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dj45-sys&repo=My-Personal-Portfolio&show_owner=true&theme=tokyonight">
+    </a>
+    <a href="https://github.com/dj45-sys/dotfiles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dj45-sys&repo=dotfiles&show_owner=true&theme=tokyonight">
+    </a>
+    <a href="https://github.com/dj45-sys/NeXus-Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dj45-sys&repo=NeXus-Assistanto&show_owner=true&theme=tokyonight">
+    </a>
+</div>
