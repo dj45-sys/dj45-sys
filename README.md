@@ -26,6 +26,7 @@ I'm A Nerd And An Average Developer From Colombia, I'm 15 Years Old, My Hobbies 
 <div align="center">
     <img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" height="40" style="vertical-align:top; margin:4px">
     <img src="https://iconape.com/wp-content/files/rj/371212/svg/371212.svg" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" height="40" style="vertical-align:top; margin:4px">
 </div>
 
 ### Github Stats:
