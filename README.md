@@ -29,6 +29,14 @@ I'm A Nerd And An Average Developer From Colombia, I'm 15 Years Old, My Hobbies 
     <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" height="40" style="vertical-align:top; margin:4px">
 </div>
 
+### Favorite Web Technologies:
+
+<div align="center">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="40" style="vertical-align:top; margin:4px">
+</div>
+
 ### Github Stats:
 <div style="display:flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=dj45-sys&&show_icons=true&title_color=ff8000&icon_color=bb2acf&text_color=daf7dc&bg_color=424242"/>
