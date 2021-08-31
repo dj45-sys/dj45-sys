@@ -18,6 +18,7 @@ I'm A Nerd And An Average Developer From Colombia, I'm 15 Years Old, My Hobbies 
 
 <div align="center">
     <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="linux" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/neilorangepeel/Free-Social-Icons/master/Flat/SVG/Windows.svg" alt="windows" height="40" style="vertical-align:top; margin:4px">
 </div>
 
 ### Favorite Languages:
