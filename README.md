@@ -46,9 +46,3 @@ I'm A Nerd And An Average Developer From Colombia, I'm 15 Years Old, My Hobbies 
 <div style="display:flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj45-sys">
 </div>
-
-### Wakatime Weekend Stats:
-
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dj45Sys" width="50%" align="left"/>
-</div>
