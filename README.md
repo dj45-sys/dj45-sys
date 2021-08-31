@@ -60,6 +60,6 @@ I'm A Nerd And An Average Developer From Colombia, I'm 15 Years Old, My Hobbies 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dj45-sys&repo=dotfiles&show_owner=true&theme=tokyonight">
     </a>
     <a href="https://github.com/dj45-sys/NeXus-Assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dj45-sys&repo=NeXus-Assistanto&show_owner=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dj45-sys&repo=NeXus-Assistant&show_owner=true&theme=tokyonight">
     </a>
 </div>
